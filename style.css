@@ -62,7 +62,7 @@ section h3 {
     font-size: 50px;
     justify-content: center;
     align-items: center;
-    color: white;
+    color: rgb(186, 255, 122);
     align-items: center;
     font-family: Helvetica;
 }
@@ -92,11 +92,11 @@ section h3 {
 
 
     img {
-        width: 375px;
+        max-width: 500px;
     }
 
     .secao1 img {
-        max-width: 375px;
+        max-width: 500px;
         margin-left: 0px;
     }
 
