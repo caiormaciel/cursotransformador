@@ -24,9 +24,7 @@ img {
     justify-content: center;
 }
 
-.secao1 img {
-    width: 900px;
-}
+
 
 .secao3 , .secao5 {
     margin: 100px;
@@ -92,11 +90,13 @@ section h3 {
 
 
     img {
-        max-width: 500px;
+        min-width: 375px;
+        max-width: 1200px;
     }
 
     .secao1 img {
-        max-width: 500px;
+        min-width: 375px;
+        max-width: 1200px;
         margin-left: 0px;
     }
 
